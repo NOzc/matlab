@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="minHJ">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MatlabWebApp/src/main/webapp/WEB-INF/lib/minHJ.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="MatlabWebApp:war">
+    <output-path>$PROJECT_DIR$/MatlabWebApp/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>MatlabWebApp</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="MatlabWebApp-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="MatlabWebApp:war exploded" />
+    </root>
+  </artifact>
+</component>

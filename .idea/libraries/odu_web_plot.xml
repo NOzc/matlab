@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="odu_web_plot">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MatlabWebApp/src/main/webapp/WEB-INF/lib/odu_web_plot.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

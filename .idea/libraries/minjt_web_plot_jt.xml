@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="minjt_web_plot_jt">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MatlabWebApp/src/main/webapp/WEB-INF/lib/minjt_web_plot_jt.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="minJT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MatlabWebApp/src/main/webapp/WEB-INF/lib/minJT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="minFBNQ">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MatlabWebApp/src/main/webapp/WEB-INF/lib/minFBNQ.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
